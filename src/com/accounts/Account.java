@@ -5,6 +5,7 @@ public class Account {
 
     public int getBalance() {
         return balance;
+        // This is the first change made to this file
     }
 
     public void withdrawAmount(int amount) {
